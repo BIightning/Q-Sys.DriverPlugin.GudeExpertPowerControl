@@ -1,0 +1,5 @@
+--[[ #include "src/runtime/log.lua" ]]
+--[[ #include "src/runtime/startup.lua" ]]
+--[[ #include "src/runtime/config.lua" ]]
+--[[ #include "src/runtime/main.lua" ]]
+--[[ #include "src/runtime/boot.lua" ]]

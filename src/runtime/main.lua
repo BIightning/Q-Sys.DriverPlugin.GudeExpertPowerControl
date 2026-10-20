@@ -1,0 +1,7 @@
+-- Runtime logic of the Main page. Bind control handlers in a startup hook, so boot.lua runs them
+-- once every module exists:
+-- startup.on_ready(function()
+--   Controls["enable"].EventHandler = function(ctrl)
+--     log.fn("enable " .. tostring(ctrl.Boolean));
+--   end
+-- end);

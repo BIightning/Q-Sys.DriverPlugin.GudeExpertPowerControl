@@ -1,0 +1,2 @@
+-- Controls of the Main page. Declare them with control_kit, for example:
+-- control_kit.toggle(ctrls, "enable", 1);
